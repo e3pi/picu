@@ -9,4 +9,4 @@ Try e3pi.org or depending on how many bugs the size of alligators this week, try
 
 Like Larry "From Bremerton", we accept that both patience, and `all the good gawdamned time in the whole wide world' i.e., `laziness' -are virtues.
 
-Seeking truly despicable sleazy ex-used-car salesmen, street criminals of sharp practices, lawyers who know perl CGI and js, petty thieves and druggies after all the low-hanging fruit, to apply for membership to our rotten to the core Picu Foundation, our misanthrope pack of lying poseurs with shit eating grins, a pack of thieving cheating selfish worst than worthless ass-clowns if ever there was one.
+Seeking truly despicable sleazy ex-used-car salesmen, street criminals of sharp practices, lawyers who know perl CGI and js, petty thieves and druggies after all the low-hanging fruit, to apply for membership to our rotten to the core Picu Foundation, our misanthrope pack of lying poseurs with shit eating grins, a pack of thieving cheating selfish worst than worthless toothless whores if ever there was one.
