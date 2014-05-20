@@ -56,7 +56,9 @@ MINING
 emacs 
 -----
 
-macros regexes to find good candidate differences, eg, ff++ -ff, and ratios  ff++/ff
+Enhance `gp' pari-mode, split screen macros.
+
+Macros of multi-line regexes to find good candidate differences, eg, `quoin' finding topmost  ff++ -ff, and ratios  ff++/ff for higher psi picu.
 
 pari/GP
 _______
@@ -74,6 +76,15 @@ rnd(monte carlo) and permutes over atoms ops and eventually parens
 perl/python adapt bioinformatics as CATGXYZ biosyn proteins,
 
 
+HTML, js
+----
+
+pages of framed tables finding best related entries.
+
+
+CA Computer Algebra Routines
+
+See the latest SAL offerings, duct-taped with perl.
 
 
 Simp
