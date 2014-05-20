@@ -32,6 +32,7 @@ The problem is, with this counterexample, how far out along their decimal expans
 affix uniqueness and so submit a minimalist digest  as a zero knowledge/claim proof?
 
 CANDIDATE THOUGHTS FOR WORK AROUND SOLUTIONS sssssssssssssssssssssssssssssssssssssssssss
+
 p1 is of PH1 and p2 is of PH3, we should not be tracking both apples and oranges in the same database, so we need the five hoods kept independent for now, or all picu respective digest require the extra baggage of what hood they reside in.
 
 
