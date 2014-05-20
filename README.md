@@ -60,11 +60,16 @@ _______
 perl driver file to write pari foo.gp programs
 
 
-perl (C, python, js for clent)
+perl (C, python, java, js for clent)
 ----
 infty/arbitrary precision Math::Bignum to get beyond needing pari/GP's library
 
 rnd(monte carlo) and permutes over atoms ops and eventually parens
+
+
+perl/python adapt bioinformatics as CATGXYZ biosyn proteins,
+
+
 
 
 Simp
@@ -80,9 +85,18 @@ Eliminate human determination  of trivial candidates and false positives, would 
 perl's recursive descent parens parser, balanced parens, and RPN.
 
 
+ML
+--
+move to front minimal string distances, intrisic simian, baysian, markov, gp and all else of ML popular routines
+fitting for off the beaten path mining excursions.
 
 
+MINING RIGS
+-----------
 
+ASIC crushed, eBay el cheapo BTC GPU rigs adapted into trivally easy parallel runs.
+
+Parallela? What's this? Can we use it?
 
 
 
