@@ -43,7 +43,7 @@ REFINE
 
 psi_{ph_nn} - greek letter := upper bound of all integer approximations among pihood ph_{ph_nn}
 Of a modest 0.75 million listed picu - almost all worthless - provides a sample to empirically determine psi's
-so the rarer hipsi - high-Psi - may be reliably assigned.
+so the rarer hipsi - high-Psi valuation- may be reliably assigned.
 
 A semi-stable Picu Valuation Formula
 
