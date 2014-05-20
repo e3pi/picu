@@ -61,7 +61,8 @@ perl driver file to write pari foo.gp programs
 
 
 perl
-_____
+----
+infty/arbitrary precision Math::Bignum to get beyond needing pari/GP's library
 
 rnd(monte carlo) and permutes over atoms ops and eventually parens
 
@@ -76,13 +77,12 @@ The Verifier
 ------------
 Eliminate human determination  of trivial candidates and false positives, would allow for a partial knowledge p2p picu candidate verification
 
-perl recursive descent parens parser
+perl's recursive descent parens parser, balanced parens, and RPN.
 
 
 
 
 
-perl
 
 
 
@@ -92,10 +92,11 @@ perl
 
 Try e3pi.org or depending on how many bugs the size of alligators this week, try emailing angry `The Screamer' Collins if he's around to try and get a key for the gate. Good luck with that.
 
-Like Larry "From Bremerton", we accept that both patience, and `all the good gawdamned time in the whole wide world' i.e., `laziness' -are virtues.
+As Larry "From Bremerton", like we're suppose to  accept his  casual patience, and `all the good gawdamned time in the whole wide world' i.e., `laziness' -are virtues. Some of us are men who work for a living, and we're of the opinion your complacent cheerful disposition are sufficient grounds for termination. 
+stop taking money out of my wallet and stealing my air Fucker!
 
 THE PICU FOUNDATION   - Just Say NO!
 
-Seeking truly despicable sleazy ex-used-car salesmen, street criminals of sharp practices, lawyers who know perl CGI and js, petty thieves and druggies after all the low-hanging fruit --to apply for membership to our rotten to the core Picu Foundation, our misanthrope pack of lying evil poseurs with shit eating grins, a pack of thieving cheating selfish worst than worthless toothless whores if ever there was one. VOTE NO! HELL NO! We must resoundingly denounce and shame these despicable criminals.
+Seeking truly despicable sleazy ex-used-car salesmen, street criminals of sharp practices, lawyers who know perl CGI and js, petty thieves and druggies after all the low-hanging fruit --to apply for membership to our rotten to the core Picu Foundation, our misanthrope pack of lying evil poseurs with shit eating grins, a pack of thieving cheating selfish worst than worthless toothless whores if ever there was one. VOTE NO! HELL NO! We must resoundingly denounce and shame these despicable assholes.
 
 
