@@ -60,7 +60,7 @@ _______
 perl driver file to write pari foo.gp programs
 
 
-perl
+perl (C, python, js for clent)
 ----
 infty/arbitrary precision Math::Bignum to get beyond needing pari/GP's library
 
