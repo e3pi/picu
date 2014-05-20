@@ -45,6 +45,10 @@ psi_{ph_nn} - greek letter := upper bound of all integer approximations among pi
 Of a modest 0.75 million listed picu - almost all worthless - provides a sample to empirically determine psi's
 so the rarer hipsi - high-Psi - may be reliably assigned.
 
+A semi-stable Picu Valuation Formula
+
+As big orchard miners produce a vast Pacific Ocean of relatively infinite picu candidates to our droplets, this will reduce value over time for everyone in the beginning, then stop -- being bounded by psi's fixed wall. Nature's psi is our friend.
+
 
 MINING
 ======
