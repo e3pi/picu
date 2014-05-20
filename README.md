@@ -87,16 +87,16 @@ perl's recursive descent parens parser, balanced parens, and RPN.
 
 
 
-//////////////////////////// DO NOT READ BELOW - ..PENDING OPINION AND FOMENTING  THE PARTISAN RAGE
-
+//////////////////////////// DO NOT READ BELOW - ..PENDING OPINION AND FOMENTING TODAY's PARTISAN RAGE
 
 Try e3pi.org or depending on how many bugs the size of alligators this week, try emailing angry `The Screamer' Collins if he's around to try and get a key for the gate. Good luck with that.
 
-As Larry "From Bremerton", like we're suppose to  accept his  casual patience, and `all the good gawdamned time in the whole wide world' i.e., `laziness' -are virtues. Some of us are men who work for a living, and we're of the opinion your complacent cheerful disposition are sufficient grounds for termination. 
-stop taking money out of my wallet and stealing my air Fucker!
+
+As Larry "From Bremerton", like we're suppose to  accept his  phony baloney `bhuddist' patience, and `all the good gawdamned time in the whole wide world' i.e., `laziness' -are virtues. Some of us are men who work for a living, and we're of the opinion your complacent cheerful disposition are sufficient grounds for termination. 
+Stop taking money out of my wallet and stealing my air Fucker!
 
 THE PICU FOUNDATION   - Just Say NO!
 
-Seeking truly despicable sleazy ex-used-car salesmen, street criminals of sharp practices, lawyers who know perl CGI and js, petty thieves and druggies after all the low-hanging fruit --to apply for membership to our rotten to the core Picu Foundation, our misanthrope pack of lying evil poseurs with shit eating grins, a pack of thieving cheating selfish worst than worthless toothless whores if ever there was one. VOTE NO! HELL NO! We must resoundingly denounce and shame these despicable assholes.
+Thet're seeking truly despicable sleazy ex-used-car salesmen, street criminals of sharp practices, serial bankruptees, greedy `entitled' lawyers who think they're able to contribute any gawdmaned thing to tech, petty thieves and druggies after all the low-hanging fruit --to apply for membership to our rotten to the core Picu Foundation --our misanthrope pack of lying evil poseurs with shit eating grins, a pack of thieving cheating selfish worst than worthless toothless whores if ever there was one. VOTE NO! HELL NO! We must resoundingly denounce and shame these despicable assholes!
 
 
