@@ -38,6 +38,54 @@ p1 is of PH1 and p2 is of PH3, we should not be tracking both apples and oranges
 Or, we need to pack around much larger digests to prevent collisions with future potential claims.
 
 
+REFINE 
+======
+
+psi_{ph_nn} - greek letter := upper bound of all integer approximations among pihood ph_{ph_nn}
+Of a modest 0.75 million listed picu - almost all worthless - provides a sample to empirically determine psi's
+so the rarer hipsi - high-Psi - may be reliably assigned.
+
+
+MINING
+======
+
+emacs 
+-----
+
+macros regexes to find good candidate differences, eg, ff++ -ff, and ratios  ff++/ff
+
+pari/GP
+_______
+
+perl driver file to write pari foo.gp programs
+
+
+perl
+_____
+
+rnd(monte carlo) and permutes over atoms ops and eventually parens
+
+
+Simp
+----
+
+Such as maxima's, reducing machine mined picu candidates stringLength(ff) for higher valuation.
+
+
+The Verifier
+------------
+Eliminate human determination  of trivial candidates and false positives, would allow for a partial knowledge p2p picu candidate verification
+
+perl recursive descent parens parser
+
+
+
+
+
+perl
+
+
+
 
 //////////////////////////// DO NOT READ BELOW - ..PENDING OPINION AND FOMENTING  THE PARTISAN RAGE
 
